@@ -35,8 +35,6 @@
 
 ## 〈 About 〉
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=martinakenna&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=6d28d9&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd&hide_border=false&count_private=true" />
-
 M.Sc. Artificial Intelligence student with hands-on experience in **computer vision**, **machine learning**, and **real-time perception systems**. I've worked across industrial and research settings — from production ML pipelines on embedded hardware to autonomous systems perception and multimodal AI evaluation.
 
 I care about building things that actually work: reproducible experiments, well-validated models, and inference pipelines that hold up under real-world constraints. I'm comfortable owning a problem end-to-end, from data and architecture decisions through to deployment and analysis.
