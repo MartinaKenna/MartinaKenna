@@ -202,7 +202,7 @@ My technical interests span **computer vision**, **deep learning**, **scientific
 
 <div align="center">
 
-*"AI won't replace curious people — it'll amplify them."*
+*"AI won't replace curious people, it'll amplify them."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4b0082,100:1a0533&height=120&section=footer" width="100%" />
 
