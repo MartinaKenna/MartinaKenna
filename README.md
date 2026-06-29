@@ -35,16 +35,11 @@
 
 ## 〈 About 〉
 
-M.Sc. Artificial Intelligence student with hands-on experience in **computer vision**, **machine learning**, and **real-time perception systems**. I've worked across industrial and research settings — from production ML pipelines on embedded hardware to autonomous systems perception and multimodal AI evaluation.
+M.Sc. Artificial Intelligence student with hands-on experience in **computer vision**, **machine learning**, and **real-time perception systems**. I've worked across industrial and research settings, from production ML pipelines on embedded hardware to autonomous systems perception and multimodal AI evaluation.
 
 I care about building things that actually work: reproducible experiments, well-validated models, and inference pipelines that hold up under real-world constraints. I'm comfortable owning a problem end-to-end, from data and architecture decisions through to deployment and analysis.
 
-My technical interests span **computer vision**, **deep learning**, **scientific computing**, and **autonomous systems** — and I'm always drawn to problems where rigorous engineering and research thinking go hand in hand.
-
-**Open To:**
-- 🔬 Research internships in computer vision, generative AI, or medical imaging
-- 💼 Engineering internships in ML, computer vision, or autonomous systems
-- 🌍 International environments and collaborative teams
+My technical interests span **computer vision**, **deep learning**, **scientific computing**, and **autonomous systems**, and I'm always drawn to problems where rigorous engineering and research thinking go hand in hand.
 
 <br clear="right"/>
 
