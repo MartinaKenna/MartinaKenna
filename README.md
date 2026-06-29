@@ -45,8 +45,8 @@ My technical interests span **computer vision**, **deep learning**, **scientific
 
 **Open To:**
 - 🔬 Research internships in computer vision, generative AI, or medical imaging
-- 🤝 Open-source collaboration on perception and scientific computing tools
-- 🌍 International research environments and PhD opportunities
+- 💼 Engineering internships in ML, computer vision, or autonomous systems
+- 🌍 International environments and collaborative teams
 
 <br clear="right"/>
 
@@ -60,7 +60,7 @@ My technical interests span **computer vision**, **deep learning**, **scientific
 
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://cppreference.com)
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cuda.svg" width="48" height="48" alt="CUDA" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="48" alt="CUDA" />
 
 **ML & Computer Vision**
 
@@ -111,12 +111,12 @@ My technical interests span **computer vision**, **deep learning**, **scientific
 |--------|---------|
 | **Computer Vision** | Stereo vision, depth estimation, 3D reconstruction, multi-view geometry, camera calibration |
 | **Deep Learning** | PyTorch, CNN architectures, DenseNet, ConvLSTM, Transformer-based models |
+| **Synthetic Data Generation** | Text-conditioned image synthesis, generative model evaluation, domain-specific data augmentation |
 | **Real-Time Perception** | Embedded GPU deployment, TensorRT, INT8/FP16 quantization, YOLO, MediaPipe |
 | **Medical Imaging AI** | Generative model evaluation, MedSigLIP, segmentation-based metrics, MIMIC-CXR |
 | **Autonomous Systems** | Object detection, multi-object tracking, sensor fusion, ROS2, perception pipelines |
 | **Imitation Learning** | Behavior Cloning, DAgger, sim-to-real transfer, MuJoCo environments |
 | **Scientific Computing** | HPC workflows, Slurm, reproducible experimentation, open-source libraries |
-| **Statistical Analysis** | Benchmarking, ablation studies, error analysis, distribution shift evaluation |
 
 </div>
 
@@ -132,20 +132,12 @@ My technical interests span **computer vision**, **deep learning**, **scientific
 `Datalogic USA Inc. — Eugene, Oregon`
 `Aug 2025 – Feb 2026`
 
-Developed production-grade ML pipelines for industrial visual inspection at scale, working across the full model lifecycle from dataset curation through deployment optimisation on embedded GPU hardware.
-
-- Designed and executed ML pipelines across 50,000+ images spanning classification, anomaly detection, and appearance analysis, achieving **94% precision under production constraints**
-- Built reproducible benchmarking and evaluation workflows for architecture comparison, model selection, and performance validation
-- Optimised inference pipelines using **TensorRT and INT8/FP16 quantization**, meeting real-time performance requirements on embedded GPU hardware
-- Investigated deployment tradeoffs between accuracy, latency, and compute budget for edge vision applications
-
 </td>
 <td width="35%" valign="top">
 
 ![TensorRT](https://img.shields.io/badge/TensorRT-1e1b4b?style=flat-square&logo=nvidia&logoColor=a78bfa)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1e1b4b?style=flat-square&logo=pytorch&logoColor=a78bfa)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1e1b4b?style=flat-square&logo=opencv&logoColor=a78bfa)
-![INT8/FP16](https://img.shields.io/badge/INT8/FP16_Quantization-1e1b4b?style=flat-square&logoColor=a78bfa)
 ![Embedded GPU](https://img.shields.io/badge/Embedded_GPU-1e1b4b?style=flat-square&logo=nvidia&logoColor=a78bfa)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-1e1b4b?style=flat-square&logoColor=a78bfa)
 
@@ -161,13 +153,6 @@ Developed production-grade ML pipelines for industrial visual inspection at scal
 `UniBo Motorsport Driverless, University of Bologna`
 `Mar 2025 – Sep 2025`
 
-Re-engineered the core perception stack for an autonomous Formula SAE racing vehicle, achieving a 5× throughput improvement while enabling real-time metric depth estimation for navigation.
-
-- Re-engineered stereo vision and 3D reconstruction pipeline, increasing throughput from **5 FPS to 25 FPS**
-- Developed camera calibration, image rectification, object detection, and multi-object tracking pipelines using OpenCV and YOLO
-- Applied multi-view geometry techniques to improve depth reconstruction accuracy under varying environmental conditions
-- Contributed to software integration and validation within a multidisciplinary autonomous systems team
-
 </td>
 <td width="35%" valign="top">
 
@@ -176,7 +161,6 @@ Re-engineered the core perception stack for an autonomous Formula SAE racing veh
 ![OpenCV](https://img.shields.io/badge/OpenCV-1e1b4b?style=flat-square&logo=opencv&logoColor=a78bfa)
 ![Stereo Vision](https://img.shields.io/badge/Stereo_Vision-1e1b4b?style=flat-square&logoColor=a78bfa)
 ![3D Reconstruction](https://img.shields.io/badge/3D_Reconstruction-1e1b4b?style=flat-square&logoColor=a78bfa)
-![Multi-View Geometry](https://img.shields.io/badge/Multi--View_Geometry-1e1b4b?style=flat-square&logoColor=a78bfa)
 
 </td>
 </tr>
@@ -190,19 +174,12 @@ Re-engineered the core perception stack for an autonomous Formula SAE racing veh
 `University of Milano Bicocca`
 `Mar 2024 – Jun 2024`
 
-Contributed to the open-source scientific computing ecosystem through evaluation framework development for the `softpy` library, supporting reproducible research in computational intelligence.
-
-- Built evaluation and benchmarking modules for the open-source Python library **softpy**
-- Improved usability and reliability of research workflows through testing and validation of computational intelligence algorithms
-- Supported reproducible experimentation practices within an academic research environment
-
 </td>
 <td width="35%" valign="top">
 
 ![Python](https://img.shields.io/badge/Python-1e1b4b?style=flat-square&logo=python&logoColor=a78bfa)
 ![Open Source](https://img.shields.io/badge/Open_Source-1e1b4b?style=flat-square&logo=github&logoColor=a78bfa)
 ![Scientific Computing](https://img.shields.io/badge/Scientific_Computing-1e1b4b?style=flat-square&logoColor=a78bfa)
-![Benchmarking](https://img.shields.io/badge/Benchmarking-1e1b4b?style=flat-square&logoColor=a78bfa)
 
 </td>
 </tr>
@@ -225,7 +202,7 @@ Contributed to the open-source scientific computing ecosystem through evaluation
 
 <div align="center">
 
-*"Build systems that earn their conclusions."*
+*"AI won't replace curious people — it'll amplify them."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4b0082,100:1a0533&height=120&section=footer" width="100%" />
 
