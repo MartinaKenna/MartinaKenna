@@ -59,6 +59,7 @@ My technical interests span **computer vision**, **deep learning**, **scientific
 **ML & Computer Vision**
 
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
 [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
 
@@ -83,6 +84,7 @@ My technical interests span **computer vision**, **deep learning**, **scientific
 ![Java](https://img.shields.io/badge/Java-1e1b4b?style=flat-square&logo=openjdk&logoColor=a78bfa)
 ![CUDA](https://img.shields.io/badge/CUDA-1e1b4b?style=flat-square&logo=nvidia&logoColor=a78bfa)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1e1b4b?style=flat-square&logo=pytorch&logoColor=a78bfa)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1e1b4b?style=flat-square&logo=tensorflow&logoColor=a78bfa)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1e1b4b?style=flat-square&logo=opencv&logoColor=a78bfa)
 ![TensorRT](https://img.shields.io/badge/TensorRT-1e1b4b?style=flat-square&logo=nvidia&logoColor=a78bfa)
 ![NumPy](https://img.shields.io/badge/NumPy-1e1b4b?style=flat-square&logo=numpy&logoColor=a78bfa)
