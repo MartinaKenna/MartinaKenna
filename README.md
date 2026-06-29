@@ -35,11 +35,18 @@
 
 ## 〈 About 〉
 
-M.Sc. Artificial Intelligence student with hands-on experience in **computer vision**, **machine learning**, and **real-time perception systems**. I've worked across industrial and research settings, from production ML pipelines on embedded hardware to autonomous systems perception and multimodal AI evaluation.
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=martinakenna&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=6d28d9&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd&hide_border=false&count_private=true" />
+
+M.Sc. Artificial Intelligence student with hands-on experience in **computer vision**, **machine learning**, and **real-time perception systems**. I've worked across industrial and research settings — from production ML pipelines on embedded hardware to autonomous systems perception and multimodal AI evaluation.
 
 I care about building things that actually work: reproducible experiments, well-validated models, and inference pipelines that hold up under real-world constraints. I'm comfortable owning a problem end-to-end, from data and architecture decisions through to deployment and analysis.
 
-My technical interests span **computer vision**, **deep learning**, **scientific computing**, and **autonomous systems** and I'm always drawn to problems where rigorous engineering and research thinking go hand in hand.
+My technical interests span **computer vision**, **deep learning**, **scientific computing**, and **autonomous systems** — and I'm always drawn to problems where rigorous engineering and research thinking go hand in hand.
+
+**Open To:**
+- 🔬 Research internships in computer vision, generative AI, or medical imaging
+- 💼 Engineering internships in ML, computer vision, or autonomous systems
+- 🌍 International environments and collaborative teams
 
 <br clear="right"/>
 
@@ -53,6 +60,7 @@ My technical interests span **computer vision**, **deep learning**, **scientific
 
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://cppreference.com)
+[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="48" alt="CUDA" />
 
 **ML & Computer Vision**
@@ -71,6 +79,7 @@ My technical interests span **computer vision**, **deep learning**, **scientific
 **Robotics & Simulation**
 
 [![ROS](https://skillicons.dev/icons?i=ros)](https://ros.org)
+<img src="https://img.shields.io/badge/MuJoCo-1e1b4b?style=for-the-badge&logoColor=white" height="48" alt="MuJoCo" />
 
 </div>
 
@@ -78,19 +87,22 @@ My technical interests span **computer vision**, **deep learning**, **scientific
 
 ![Python](https://img.shields.io/badge/Python-1e1b4b?style=flat-square&logo=python&logoColor=a78bfa)
 ![C++](https://img.shields.io/badge/C++-1e1b4b?style=flat-square&logo=cplusplus&logoColor=a78bfa)
+![Java](https://img.shields.io/badge/Java-1e1b4b?style=flat-square&logo=openjdk&logoColor=a78bfa)
 ![CUDA](https://img.shields.io/badge/CUDA-1e1b4b?style=flat-square&logo=nvidia&logoColor=a78bfa)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1e1b4b?style=flat-square&logo=pytorch&logoColor=a78bfa)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1e1b4b?style=flat-square&logo=opencv&logoColor=a78bfa)
 ![TensorRT](https://img.shields.io/badge/TensorRT-1e1b4b?style=flat-square&logo=nvidia&logoColor=a78bfa)
 ![NumPy](https://img.shields.io/badge/NumPy-1e1b4b?style=flat-square&logo=numpy&logoColor=a78bfa)
 ![Pandas](https://img.shields.io/badge/Pandas-1e1b4b?style=flat-square&logo=pandas&logoColor=a78bfa)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-1e1b4b?style=flat-square&logo=google&logoColor=a78bfa)
+![YOLO](https://img.shields.io/badge/YOLO-1e1b4b?style=flat-square&logoColor=a78bfa)
 ![Linux](https://img.shields.io/badge/Linux-1e1b4b?style=flat-square&logo=linux&logoColor=a78bfa)
 ![Docker](https://img.shields.io/badge/Docker-1e1b4b?style=flat-square&logo=docker&logoColor=a78bfa)
 ![Git](https://img.shields.io/badge/Git-1e1b4b?style=flat-square&logo=git&logoColor=a78bfa)
 ![Azure](https://img.shields.io/badge/Azure-1e1b4b?style=flat-square&logo=microsoftazure&logoColor=a78bfa)
-![Slurm](https://img.shields.io/badge/Slurm_HPC-1e1b4b?style=flat-square&logo=server&logoColor=a78bfa)
+![Slurm](https://img.shields.io/badge/Slurm_HPC-1e1b4b?style=flat-square&logoColor=a78bfa)
 ![ROS2](https://img.shields.io/badge/ROS2-1e1b4b?style=flat-square&logo=ros&logoColor=a78bfa)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-1e1b4b?style=flat-square&logo=openai&logoColor=a78bfa)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-1e1b4b?style=flat-square&logoColor=a78bfa)
 
 </div>
 
@@ -142,7 +154,7 @@ My technical interests span **computer vision**, **deep learning**, **scientific
 <tr>
 <td width="65%">
 
-**3D Perception Engineer — Autonomous Systems**
+**3D Perception Researcher — Autonomous Systems**
 `UniBo Motorsport Driverless, University of Bologna`
 `Mar 2025 – Sep 2025`
 
@@ -195,7 +207,7 @@ My technical interests span **computer vision**, **deep learning**, **scientific
 
 <div align="center">
 
-*"AI won't replace curious people, it'll amplify them."*
+*"AI won't replace curious people — it'll amplify them."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4b0082,100:1a0533&height=120&section=footer" width="100%" />
 
